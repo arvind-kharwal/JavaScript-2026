@@ -15,5 +15,10 @@ function compare(a, b) {
     return 0;
 }
 
-let res = compare(10,10);
-console.log(res);
+let res = compare(20,10);
+if(res==0)
+    console.log('Both numbers are same');
+else if(res ==1)
+    console.log('a<b');
+else 
+    console.log('a>b');
