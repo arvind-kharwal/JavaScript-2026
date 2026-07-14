@@ -1,2 +1,3 @@
 let add = (a,b)=> a+b;
-add(10,20);
+let res = add(10,20);
+console.log(res);
