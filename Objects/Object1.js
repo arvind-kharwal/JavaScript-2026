@@ -6,4 +6,5 @@ const student = {
         console.log('Age:', this.age);
     }
 }
+console.log(student.name)
 student.display();
