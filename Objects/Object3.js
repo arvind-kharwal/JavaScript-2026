@@ -7,4 +7,4 @@ const student = {
         brand1:'Dell',
     }
 }
-console.log(student.laptop.brand?.length);
+console.log(student.laptop?.brand?.length);
