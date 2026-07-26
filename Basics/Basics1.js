@@ -1,0 +1,1 @@
+let r = false; if (r){console.log('Hello')} else{console.log('World');}
