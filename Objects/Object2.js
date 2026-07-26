@@ -7,4 +7,7 @@ const student = {
         brand:'Dell',
     }
 }
-console.log(student.name)
+// console.log(student);
+// console.log(student.name);
+// console.log(student.laptop);
+console.log(student.laptop.brand);
