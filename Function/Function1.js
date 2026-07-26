@@ -24,3 +24,10 @@ else if(res ==1)
     console.log(`${a} is less than ${b}`);
 else 
     console.log(`${a} is greater than ${b}`);
+
+
+
+// =======================
+
+let x = 0x54;
+console.log(x);
