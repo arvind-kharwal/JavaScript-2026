@@ -1,3 +1,5 @@
+// global variable and function attached to window object. 
+
 var color = 'red';
 let age = 30;
 
