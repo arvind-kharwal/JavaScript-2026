@@ -4,3 +4,4 @@ colors[2] = 'green'
 console.log(colors);
 console.log(typeof colors)
 console.log(typeof (colors))
+console.log(colors.length);
