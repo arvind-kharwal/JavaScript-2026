@@ -10,3 +10,7 @@ console.log(typeof s1)
 s2 = (123).toString();
 console.log(s2)
 console.log(typeof s2)
+
+s3 = true.toString();  
+console.log(s3)
+console.log(typeof s3)
