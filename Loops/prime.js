@@ -1,13 +1,12 @@
-let num = 10; // change this number to test
-let isPrime = true; // assume prime at start
-
+let num = 10; 
+let isPrime = true; 
 if (num <= 1) {
-    isPrime = false; // 0 and 1 are not prime
+    isPrime = false; 
 } else {
     for (let i = 2; i < num/2; i++) {
         if (num % i === 0) {
-            isPrime = false; // found a divisor
-            break;           // no need to check further
+            isPrime = false; 
+            break;          
         }
     }
 }
