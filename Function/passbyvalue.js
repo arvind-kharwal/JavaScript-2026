@@ -1,6 +1,5 @@
 function square(x){
-    let res = x*x;
-    return res;
+    return x*x;
 }
 
 let y = 10;
