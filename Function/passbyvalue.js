@@ -1,10 +1,9 @@
-let person ={
-    name:"Arvind",
-    age: 40
-};
-
-function increaseAge(obj){
-    obj.age +=5;
+function square(x){
+    let res = x*x;
+    return res;
 }
-increaseAge(person);
-console.log(person);
+
+let y = 10;
+let x= square(y);
+console.log(x);
+console.log(y)
