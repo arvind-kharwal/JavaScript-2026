@@ -1,4 +1,12 @@
 // let a = '5',b = '3';
-let a = 200, b = 3.0;
-let r = a*b;
-console.log(r);
+let a = 2, b =5 ;
+// let r1 = a*b;
+// console.log(r1);
+// let r2 = a/b;
+// console.log(r2);
+// let r3 = -a%b;
+// console.log(r3);
+// console.log('5'%2);
+// const mod = (dividend, divisor) => ((dividend % divisor) + divisor) % divisor;
+// console.log(10%Infinity);
+// console.log(mod(5,5));
