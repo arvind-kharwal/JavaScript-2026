@@ -10,3 +10,8 @@ let a = 2, b =5 ;
 // const mod = (dividend, divisor) => ((dividend % divisor) + divisor) % divisor;
 // console.log(10%Infinity);
 // console.log(mod(5,5));
+// console.log(10 < '20'); 
+console.log(!NaN); 
+console.log(!null); 
+console.log(!undefined); 
+console.log(true && Infinity); 
