@@ -1,4 +1,5 @@
-let ch = "Hello";
+// let ch = "Hello";
+let ch = '5.5';
 switch(ch)
 {
     case 1:
