@@ -3,4 +3,4 @@ function start(){
     console.log(name)
 }
 start();
-console.log(name);
+// console.log(name);
