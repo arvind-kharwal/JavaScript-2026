@@ -3,3 +3,4 @@ function example(){
     console.log(name);
 }
 example();
+// console.log(name); error
