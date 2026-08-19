@@ -9,4 +9,4 @@ function example(){
 }
 
 example();
-console.log(name);
+// console.log(name);
