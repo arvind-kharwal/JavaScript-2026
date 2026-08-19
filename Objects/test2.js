@@ -5,4 +5,4 @@ const person = {
 person.greet = function(){
     console.log('I am '+this.name);
 }
-console.log(person);
+person.greet();
