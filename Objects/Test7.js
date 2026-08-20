@@ -5,3 +5,5 @@ const person = {
 person.greet = function(){
     console.log('Good Morning'+this.name);
 }
+
+person.greet();
