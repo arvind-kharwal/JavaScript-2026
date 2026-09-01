@@ -1,11 +1,10 @@
-const person={
+let person={
     name: "Arvind",
-    age:40,
     greet:function(){
         return this.name;
     }
 };
-const student = {
+let student = {
     name: "Yuvaan"
 }
 let N1 = person.greet.bind(student);
