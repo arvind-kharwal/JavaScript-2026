@@ -1,5 +1,5 @@
 function multiply(a, b) {
     return a * b;
 }
-const double = multiply.bind();
-console.log(double(5,3));
+const double = multiply.bind(null);
+console.log(double(5));
