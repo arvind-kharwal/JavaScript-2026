@@ -6,3 +6,5 @@ const person = {
 //console.log(person.1); error
 console.log(person['1']);
 console.log(person['text']);
+console.log(person);
+console.log(this);
