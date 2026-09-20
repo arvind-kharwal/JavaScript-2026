@@ -4,6 +4,5 @@ String.prototype.trueLength = function(){
     console.log(`${this}`);
     console.log(`The True length:${this.trim().length}`);  
 }
-
 user1.trueLength();
-"     Yuvaan".trueLength();
+"     Arvind Kharwal".trueLength();
