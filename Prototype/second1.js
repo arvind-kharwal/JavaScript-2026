@@ -5,12 +5,9 @@ let Person = {
         console.log(`${this.name} and ${this.age}`);
     }
 };
+Person.greet(); 
 let myarr = ['Arvind', 'Yuvaan'];
-Person.greet();   // Output: Arvind and 40
-
-// Option 2: Add greet to Array prototype
 Array.prototype.greet = function() {
-    console.log(`Array contents: ${this.join(', ')}`);
+    console.log(`${this.join()}`);
 };
-
-myarr.greet();    // Output: Array contents: Arvind, Yuvaan
+myarr.greet();    
