@@ -15,5 +15,3 @@ console.log(p1.lastname);
 let p2 = createPerson("Yuvaan","Singh");
 console.log(p2.getFullName());
 
-
-
